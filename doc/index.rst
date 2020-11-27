@@ -1,7 +1,3 @@
-Need to install Library
-
-* sudo pip3 install simplejson
-
 SILENT INVENTORY ADJUSTMENT
 
 * Silent Inventory Adjustment helps to Export/Import product stock using CSV File.
